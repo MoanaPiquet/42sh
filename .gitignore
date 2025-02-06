@@ -1,0 +1,7 @@
+42sh
+*.o
+coding-style-reports.log
+.idea/workspace.xml
+.idea/*
+test.c
+history
